@@ -1,5 +1,6 @@
 // Requiring our models for syncing
 var db = require("../models");
+const mongojs = require("mongojs");
 
 module.exports = function (app) {
   // Gets all the workout records from mongodb
