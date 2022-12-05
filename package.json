@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/deenuy/UofT-fitness-tracker#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mongodb": "^3.6.3",
     "mongojs": "^3.1.0",
     "mongoose": "^5.10.13",
